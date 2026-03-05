@@ -1,6 +1,5 @@
 # -AI-ML-Internship-Tasks
-AI/ML internship tasks at Developers Hub Corporation including health chatbot and machine learning notebooks
-# AI/ML Internship Tasks
+AI/ML internship tasks at Developers Hub Corporation including health chatbot and machine learning notebook
 
 This repository contains tasks completed during my Artificial Intelligence and Machine Learning internship.
 
