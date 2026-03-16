@@ -8,13 +8,11 @@ This project uses Machine Learning to predict the next day's closing price for *
 - **Ensemble Learning:** Uses 100 decision trees to reach a consensus on price movements.
 - **Visual Analytics:** A dual-plot dashboard showing price forecasts and feature importance.
 
-## How to Run
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/stock-price-predictor.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the script: `python data_analysis.py`
+## How to Run`
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the script: `python data_analysis.py`
 
 ## Results
-![Stock Prediction Chart](results/Figure_1.png)
 *Mean Absolute Error (MAE): ~$15.65*
 
 ## Insights
