@@ -22,4 +22,4 @@ Health Assistant Chatbot using Streamlit and the FLAN-T5 model.
 - Hugging Face Transformers
 
 ## Author
-AI/ML Intern
+Khadija Abdulrahman
