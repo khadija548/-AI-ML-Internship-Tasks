@@ -18,5 +18,22 @@ The complete architecture—including all preprocessing steps and the tuned clas
 - **Model Serialization:** exporting complete artifacts for real-world deployment using `joblib`.
 - **Business Logic:** translating technical metrics into churn prevention insights.
 
-- ## Author:
-- Khadija Abdulrahman
+- ## Saved Model
+
+The trained machine learning pipeline is saved as:
+
+churn_pipeline_v1.joblib
+
+This file contains the full preprocessing pipeline and trained model exported using joblib.
+
+Example usage:
+
+```python
+import joblib
+
+model = joblib.load("churn_pipeline_v1.joblib")
+prediction = model.predict(data)
+
+-
+
+
