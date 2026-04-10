@@ -47,4 +47,46 @@ The chatbot uses **semantic embeddings and vector search** to find the most rele
 
 ---
 
-## Project Structure
+
+---
+
+## Example Questions
+
+You can ask the chatbot questions like:
+
+- What is rag and why is it useful
+- How is machine learning related to AI?
+- How do self driving cars use computer vision
+- What is Retrieval-Augmented Generation?
+- What techs are used to build modern ai chatbots
+- What role do vector databases play in ai systems
+- Why are embeddings important for semantic search
+
+---
+
+## Installation
+
+Install the required libraries:
+pip install -r requirements.txt
+
+---
+
+## Running the Chatbot
+
+Start the Streamlit application:
+
+---
+
+streamlit run app.py
+
+Then open your browser and go to:
+http://localhost:8501
+
+## Screenshots
+screenshots for demo are attached 
+
+## Author
+Khadija Abdulrahman
+
+
+
