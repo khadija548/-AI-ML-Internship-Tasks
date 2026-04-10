@@ -51,4 +51,4 @@ Business
 ## Screenshots
 attached to view
 
-![Demo](screenshots/demo.png)
+
